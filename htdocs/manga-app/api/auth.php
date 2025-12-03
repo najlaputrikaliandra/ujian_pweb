@@ -25,7 +25,6 @@ if ($_POST['action'] == 'login') {
     $stmt->execute([$username]);
     $user = $stmt->fetch(PDO::FETCH_ASSOC);
     
-    // GANTI INI: dari password_verify ke plain text comparison
     if ($user && $password === $user['password']) {
         $_SESSION['user_id'] = $user['id'];
         $_SESSION['username'] = $user['username'];
