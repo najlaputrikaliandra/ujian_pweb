@@ -47,11 +47,11 @@ C:\manga-project\frontend\          # Frontend React
 ⚡ Cara Menjalankan
 1. Setup Backend (PHP)
 bash
-# 1. Copy folder manga-app ke C:\xampp\htdocs\
-# 2. Jalankan XAMPP, start Apache dan MySQL
-# 3. Buka phpMyAdmin (http://localhost/phpmyadmin)
-# 4. Buat database: manga_app
-# 5. Import file database/manga_app.sql
+#1. Copy folder manga-app ke C:\xampp\htdocs\
+#2. Jalankan XAMPP, start Apache dan MySQL
+#3. Buka phpMyAdmin (http://localhost/phpmyadmin)
+#4. Buat database: manga_app
+#5. Import file database/manga_app.sql
 2. Setup Frontend (React)
 bash
 # 1. Buka terminal di folder frontend
