@@ -34,14 +34,9 @@ bash
 
 2. Setup Frontend (React)
 bash
-- Buka terminal di folder frontend
-cd C:\manga-project\
-
--Install dependencies
-npm install
-
--Jalankan development server
-npm run dev
+- Buka terminal di folder frontend (cd C:\manga-project\)
+- Install dependencies (npm install)
+- Jalankan development server (npm run dev)
 
 3. Akses Aplikasi
 Frontend: http://localhost:5173
