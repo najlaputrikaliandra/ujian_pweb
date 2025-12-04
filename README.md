@@ -43,6 +43,6 @@ Frontend: http://localhost:5173
 
 
 Login Default
-Role	Username	Password
-Admin	admin	admin123
-User	user	user123
+- Role	Username	Password
+- Admin	admin	admin123
+- User	user	user123
