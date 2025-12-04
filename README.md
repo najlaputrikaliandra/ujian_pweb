@@ -1,9 +1,9 @@
 # ujian_pweb
 
-📚 Aplikasi Manajemen Manga
+Aplikasi Manajemen Manga
 Aplikasi web full-stack untuk mengelola koleksi manga dengan sistem login dan kontrol akses berdasarkan role.
 
-🚀 Fitur Utama
+Fitur Utama
 - Sistem Login/Logout dengan session management
 - Multi Role - Admin (bisa CRUD) dan User (hanya baca)
 - CRUD Lengkap - Tambah, Lihat, Edit, Hapus manga
@@ -34,13 +34,13 @@ bash
 
 2. Setup Frontend (React)
 bash
-# 1. Buka terminal di folder frontend
+- Buka terminal di folder frontend
 cd C:\manga-project\
 
-# 2. Install dependencies
+-Install dependencies
 npm install
 
-# 3. Jalankan development server
+-Jalankan development server
 npm run dev
 
 3. Akses Aplikasi
