@@ -43,6 +43,5 @@ Frontend: http://localhost:5173
 
 
 Login Default
-- Role	Username	Password
-- Admin	admin	admin123
-- User	user	user123
+- Admin: admin	pw: admin123
+- User : user	  pw: user123
